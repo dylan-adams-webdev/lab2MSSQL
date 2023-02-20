@@ -1,6 +1,6 @@
 # lab2MSSQL
 
-__An Express.js api that serves data from AdventureWorks Azure database__
+_An Express.js api that serves data from AdventureWorks Azure database_
 
 ## Purpose
 
